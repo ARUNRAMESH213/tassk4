@@ -92,12 +92,12 @@ p{
     font-size: 14px;
     margin-left: 26px;
 }
-.symbols{
+/* .symbols{
 
 }
 .share{
 
-}
+} */
 .inner-card:hover + .last-card{
     display: flex;
     align-items: center;
